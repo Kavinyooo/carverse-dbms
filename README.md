@@ -1,34 +1,35 @@
-# 🚗 CarVerse - Car Showroom Management System
+# 🚗 CarVerse - Car Showroom Management Database
 
-CarVerse is a database-driven car showroom management system developed using **Python** and **MySQL**. The application manages vehicle inventory, customer information, showroom records, employees, and sales transactions through a structured relational database.
+CarVerse is a relational database project designed for managing a car showroom. The system models vehicle inventory, customers, employees, stock availability, and sales transactions using a normalized MySQL database.
 
 ---
 
 ## 📖 Overview
 
-The project demonstrates the design and implementation of a relational database system for automobile dealerships. It provides efficient management of showroom operations including inventory tracking, customer records, and sales management.
+The objective of CarVerse is to demonstrate relational database design principles by creating an efficient database for automobile dealership operations.
+
+The project includes table creation, relationships, sample data, and SQL queries for managing showroom activities.
 
 ---
 
 ## ✨ Features
 
-- Vehicle Inventory Management
-- Customer Management
-- Employee Management
-- Sales Management
-- Showroom Database
-- SQL Query Execution
 - Relational Database Design
-- CRUD Operations
+- Normalized Database Schema
+- Primary & Foreign Keys
+- Inventory Management
+- Customer Management
+- Employee Records
+- Stock Tracking
+- Sales Transactions
+- SQL Query Collection
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 Technologies
 
-- Python
 - MySQL
 - SQL
-- DBMS
 
 ---
 
@@ -46,10 +47,21 @@ The project demonstrates the design and implementation of a relational database 
 
 ---
 
-## Project Structure
+## Concepts Used
+
+- Primary Keys
+- Foreign Keys
+- Normalization
+- One-to-Many Relationships
+- SQL Constraints
+- Joins
+- Aggregate Functions
+
+---
+
+## Repository Structure
 
 ```text
-src/
 sql/
 README.md
 LICENSE
@@ -59,20 +71,20 @@ LICENSE
 
 ## Applications
 
-- Car Dealership Management
+- Automobile Dealership Management
 - Inventory Management
-- Database Learning
-- Retail Sales Tracking
+- Customer Record Management
+- Sales Tracking
 
 ---
 
 ## Future Improvements
 
-- User Authentication
-- GUI Interface
-- Sales Analytics Dashboard
-- Invoice Generation
-- Online Booking
+- Python Frontend
+- Web Dashboard
+- Analytics
+- Authentication
+- Report Generation
 
 ---
 
