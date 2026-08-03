@@ -1,27 +1,18 @@
-# Python
+# SQL Dumps
 
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.bak
 
-# Virtual Environment
+# MySQL Workbench
 
-venv/
-env/
-.venv/
+*.mwb.bak
 
 # VS Code
 
 .vscode/
 
-# PyCharm
+# JetBrains
 
 .idea/
-
-# MySQL Dumps
-
-*.sql.bak
 
 # Logs
 
